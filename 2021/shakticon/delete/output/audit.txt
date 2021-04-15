@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Tue Apr 13 08:07:56 2021
+Invocation: foremost delete.png 
+Output directory: /root/ctfs/2021/shakticon/delete/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: delete.png
+Start: Tue Apr 13 08:07:56 2021
+Length: 45 KB (46335 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	      45 KB 	         48 	  (1200 x 1200)
+Finish: Tue Apr 13 08:07:56 2021
+
+1 FILES EXTRACTED
+	
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Tue Apr 13 08:07:56 2021
